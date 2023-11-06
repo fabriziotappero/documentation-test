@@ -10,7 +10,7 @@ Every markup document inside *docs/* is automatically rendered and served here:
 ## How Does it Work
 Github is running an automatic job on Github Actions to build all your markups:
 
-https://github.com/fabriziotappero/documentation-test/deployments
+https://github.com/fabriziotappero/documentation-test/actions
 
 ## More Help
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
