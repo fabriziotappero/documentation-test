@@ -12,5 +12,8 @@ Github is running an automatic job on Github Actions to build all your markups:
 
 https://github.com/fabriziotappero/documentation-test/actions
 
+## Github Pages Official Documentation
+https://docs.github.com/pages
+
 ## More Help
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
